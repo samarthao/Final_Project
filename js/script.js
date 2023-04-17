@@ -23,3 +23,6 @@ document.getElementById("hero_form").addEventListener("submit", function(event) 
 });
 
 welcome();
+
+// Video Slideshow
+
